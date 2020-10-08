@@ -17,6 +17,7 @@
     "gatsby": "^2.24.67",
     "gatsby-image": "^2.4.21",
     "gatsby-plugin-sharp": "^2.6.39",
+    "gatsby-source-contentful": "^2.3.50",
     "gatsby-source-filesystem": "^2.3.33",
     "gatsby-transformer-sharp": "^2.5.17",
     "react": "^16.12.0",
